@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<estudiantesSuperdotados>
+  <estudiante id="1">
+    <nombre>Abduskhan</nombre>
+    <edad>16</edad>
+    <carrera>doble grado fisica-quimica</carrera>
+    <notas>
+      <nota_fisica>10</nota_fisica>
+      <nota_quimica>9.9</nota_quimica>
+      <nota_matematicas>9.5</nota_matematicas>
+      <nota_programacion>9.8</nota_programacion>
+    </notas>
+  </estudiante>
+  <estudiante id="2">
+    <nombre>Hashimiri</nombre>
+    <edad>15</edad>
+    <carrera>doble grado medicina-biomecanica</carrera>
+    <notas>
+      <nota_medicina>10</nota_medicina>
+      <nota_biomecanica>8.45</nota_biomecanica>
+      <nota_biologia>9.3</nota_biologia>
+      <nota_quimica>9.7</nota_quimica>
+    </notas>
+  </estudiante>
+  <estudiante id="3">
+    <nombre>Rashimid</nombre>
+    <edad>15</edad>
+    <carrera>ingenieria aeroespacial</carrera>
+    <notas>
+      <nota_aeroespaciales>10</nota_aeroespaciales>
+      <nota_fisica>9.8</nota_fisica>
+      <nota_matematicas>9.6</nota_matematicas>
+      <nota_dibujo_tecnico>9.4</nota_dibujo_tecnico>
+    </notas>
+  </estudiante>
+  <estudiante id="4">
+    <nombre>Abdulah</nombre>
+    <edad>15</edad>
+    <carrera>matematicas</carrera>
+    <notas>
+      <nota_matematicas>9.25</nota_matematicas>
+      <nota_fisica>9.5</nota_fisica>
+      <nota_programacion>9.3</nota_programacion>
+      <nota_estadistica>9.7</nota_estadistica>
+    </notas>
+  </estudiante>
+</estudiantesSuperdotados>
